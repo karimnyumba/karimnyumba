@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karim M. Nyumba</h1>
 <h3 align="center">A passionate Full-Stack developer from Tanzania</h3>
 
+[![An image of @karimnyumba's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karimnyumba)](https://holopin.io/@karimnyumba)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimnyumba&label=Profile%20views&color=0e75b6&style=flat" alt="karimnyumba" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimnyumba" alt="karimnyumba" /></a> </p>
