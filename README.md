@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **Python, Bash**
 
-- 📫 How to reach me **karimnyumba255@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
